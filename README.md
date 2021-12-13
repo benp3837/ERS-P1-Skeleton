@@ -40,7 +40,7 @@ The back-end system shall use JDBC to connect to a Postgres database. The middle
 * This README should prove helpful when getting the big picture of everything you need to do... However, what should be most helpful to you is actually looking through the skeleton and seeing the required functionality. COE was very generous to already create the required method signatures for you and leave notes on how the various classes should work.
 
 
-* Remember the logical progression of our java applications. We tend to go from the main method, to the controller layer, to the service layer, to the DAO layer. There are exceptions to this rule of thumb, but in general it's a good rule to follow, and the skeleton is structured accordingly. 
+* Remember the logical progression of our java applications. We tend to go from the main method, to the controller layer, to the service layer, to the DAO (aka repository) layer. There are exceptions to this rule of thumb, but in general it's a good rule to follow, and the skeleton is structured accordingly. 
 
 
 * I (Ben) can only teach you so much -- This project will require you to do a bit of self study (For instance, learning about how enums work. They aren't that scary I promise). Your BEST resource when self studying besides google is each other. You're in teams for a reason! This is a great opportunity to figure out how to articulate your problems to others and help others with their own problems. Web dev is not an introverted role...
